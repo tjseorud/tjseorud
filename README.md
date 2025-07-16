@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjseorud&layout=compact)
-![tjseorud's GitHub stats](https://github-readme-stats.vercel.app/api/?username=tjseorud)
+![GitHub stats](https://github-readme-stats.vercel.app/api/?username=tjseorud&show_icons=true&theme=transparent)
 ---
 
 ### 💻 프로그래밍 언어
