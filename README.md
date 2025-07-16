@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjseorud&layout=compact)
+![tjseorud's GitHub stats](https://github-readme-stats.vercel.app/api/?username=tjseorud)
+---
+
 ### 💻 프로그래밍 언어
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -57,9 +61,6 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
 
 ---
 
